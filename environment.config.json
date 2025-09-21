@@ -1,0 +1,18 @@
+{
+  "environment": {
+    "id": "demo7",
+    "name": "demo7",
+    "template": "howtomecm-website",
+    "created": "2025-09-21T13:47:58.764Z",
+    "repository": {
+      "owner": "satorres3",
+      "repo": "demo7-470947"
+    }
+  },
+  "env": {
+    "NEXT_PUBLIC_ENVIRONMENT_ID": "demo7",
+    "NEXT_PUBLIC_ENVIRONMENT_NAME": "demo7",
+    "NEXT_PUBLIC_CMS_URL": "https://cms.howtomecm.com",
+    "NEXT_PUBLIC_API_URL": "https://cms.howtomecm.com/api/environments/demo7"
+  }
+}
